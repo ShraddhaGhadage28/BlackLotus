@@ -13,6 +13,7 @@
 		18226BBA2A78FC69008B5DA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18226BB82A78FC69008B5DA3 /* Main.storyboard */; };
 		18226BBC2A78FC6E008B5DA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18226BBB2A78FC6E008B5DA3 /* Assets.xcassets */; };
 		18226BBF2A78FC6E008B5DA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18226BBD2A78FC6E008B5DA3 /* LaunchScreen.storyboard */; };
+		18226BC72A792D98008B5DA3 /* product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18226BC62A792D98008B5DA3 /* product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18226BBB2A78FC6E008B5DA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18226BBE2A78FC6E008B5DA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18226BC02A78FC6E008B5DA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18226BC62A792D98008B5DA3 /* product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				18226BBB2A78FC6E008B5DA3 /* Assets.xcassets */,
 				18226BBD2A78FC6E008B5DA3 /* LaunchScreen.storyboard */,
 				18226BC02A78FC6E008B5DA3 /* Info.plist */,
+				18226BC62A792D98008B5DA3 /* product.swift */,
 			);
 			path = BlackLotus_Project;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18226BB72A78FC69008B5DA3 /* ViewController.swift in Sources */,
+				18226BC72A792D98008B5DA3 /* product.swift in Sources */,
 				18226BB32A78FC69008B5DA3 /* AppDelegate.swift in Sources */,
 				18226BB52A78FC69008B5DA3 /* SceneDelegate.swift in Sources */,
 			);
